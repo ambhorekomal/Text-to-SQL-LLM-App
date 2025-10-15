@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+
+# API keys
+.env
+
+# SQLite database (optional, only if you want it private)
+student.db
