@@ -78,7 +78,3 @@ streamlit run app.py
 * Make sure `student.db` is present in the project folder. You can create your own SQLite database if needed.
 * The app uses the latest **Google Gemini model** (like `gemini-2.5-flash`). 
 * `.gitignore` excludes `.env` and virtual environment files.
-
-
-Do you want me to do that next?
-```
